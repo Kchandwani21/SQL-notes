@@ -1,6 +1,6 @@
 #Kanchi Chandwani
-# CS 269: Chapter 7: How to code Subqueries
-# 24 October 2016
+# Chapter 7: How to code Subqueries
+
 
 
 #Problem 1
