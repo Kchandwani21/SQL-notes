@@ -1,5 +1,4 @@
 # Kanchi Chandwani
-#CS 269
 #Chapter 4:How to Retrieve data from two or More Tables
 
 #Problem 1
