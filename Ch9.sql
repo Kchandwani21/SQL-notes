@@ -1,5 +1,5 @@
 #Kanchi Chandwani
-# HW Chapter 9
+# Chapter 9
 
 #problem 1
 SELECT list_price, discount_percent,
