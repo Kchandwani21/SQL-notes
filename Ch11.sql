@@ -1,6 +1,6 @@
 #Kanchi Chandwani
-# Cs 269 Homework: Chapter 11 How to Create Databases, Tables, and Indexes
-# Peter Geiselman
+# Chapter 11 How to Create Databases, Tables, and Indexes
+
 
 # Problem 1
 use my_guitar_shop;
