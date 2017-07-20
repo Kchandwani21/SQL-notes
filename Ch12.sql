@@ -1,7 +1,7 @@
 
 #Kanchi Chandwani
-# CS: 269 Chapter 12:How to Create Views due 12/12/16
-#Peter Geiselman
+#Chapter 12:How to Create Views 
+
 
 #Problem 1 (done in class)
 CREATE OR REPLACE VIEW customer_addresses
