@@ -1,6 +1,6 @@
 #Kanchi Chandwani
 #Chapter 5 : How to Insert, update, delete data
-# CS 269 
+
 
 #Problem 1
 INSERT INTO categories (category_name)
