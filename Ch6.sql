@@ -1,6 +1,6 @@
 #Kanchi Chandwani
-# CS 269: Chapter 6: How to Code Summary Queries
-# 10/17/2016
+#Chapter 6: How to Code Summary Queries
+
 
 #Problem 1
 SELECT COUNT(*) AS order_count, 
