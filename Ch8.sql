@@ -1,6 +1,5 @@
 #Kanchi  Chandwani
-#CS 269: Homework #7 (Chapter 8) 
-#11/7/2016
+
 
 
 #Problem 1
