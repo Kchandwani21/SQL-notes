@@ -1,6 +1,5 @@
 #Kanchi Chandwani
-#CS 269: Final Exam
-# 12/19/16
+# 12/19/16 (Start to Finish)
 
 
 #Problem 1
