@@ -1,5 +1,5 @@
 # Kanchi chandwani 
-# CS 269 Homework: Chapter 14B: How  to use transactions and locking 
+# Chapter 14B: How  to use transactions and locking 
 # 12/5/2016
 
 use my_guitar_shop;
